@@ -1,0 +1,15 @@
+{
+  "name": "SuruMenta",
+  "version": "1.0.0",
+  "description": "A simple bot using discord.js to directly message a pre-determined user for logging, debugging, and monitoring.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lewis N Watson",
+  "license": "ISC"
+}
