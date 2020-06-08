@@ -1,5 +1,5 @@
 # Suru-Menta
- A simple bot using discord.js to directly message a pre-determined user for logging, debugging, and monitoring.
+ A simple bot using discord.js to directly message a pre-determined user from the command line for logging, debugging, and monitoring.
 
 ## Dependencies
   [Node JS](https://nodejs.org/en/download/)
